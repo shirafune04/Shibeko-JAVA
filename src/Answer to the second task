@@ -1,0 +1,15 @@
+Answer the questions
+
+Given bracket sequence: [((())()(())]]
+Can this sequence be considered correct? No
+It is not correct because the given sequence contains one extra closing square bracket at the end and one extra opening parentheses
+More specifically:
+
+The sequence has 1 opening [ bracket
+The sequence has 2 closing ]] brackets
+
+To make it correct, you need to:
+Remove one closing square bracket from the end.
+Remove one opening parentheses or add one closing parentheses
+
+Corrected sequence: [((())()(()))]
